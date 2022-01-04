@@ -17,5 +17,5 @@ Currently two procedures are coded:
 
 RNP E 01L             |  RNP L 01R
 :-------------------------:|:-------------------------:
-!<img src="./images/ENEBY_ND.png" width="250" height="250" /> |  <img src="./images/LUNDA_ND.png" width="250" height="250" /> 
+!<img src="./images/ENEBY_ND.png" width="400" height="400" /> |  <img src="./images/LUNDA_ND.png" width="400" height="400" /> 
 
