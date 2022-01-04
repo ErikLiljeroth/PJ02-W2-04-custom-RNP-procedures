@@ -14,8 +14,10 @@ Currently two procedures are coded:
 1. RNP E 01L  - Curved approach to 01L from west
 2. RNP L 01R - Curved approach to 01R from North-East
 
+<div align="center">
 
 RNP E 01L             |  RNP L 01R
 :-------------------------:|:-------------------------:
-!<img src="./images/ENEBY_ND.png" width="400" height="400" /> |  <img src="./images/LUNDA_ND.png" width="400" height="400" /> 
+<img src="./images/ENEBY_ND.png" width="400" height="400" /> |  <img src="./images/LUNDA_ND.png" width="400" height="400" /> 
 
+</div>
