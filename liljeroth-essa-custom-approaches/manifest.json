@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "ESSA custom RNAV-approaches",
+  "manufacturer": "",
+  "creator": "Liljeroth",
+  "package_version": "0.1.0",
+  "minimum_game_version": "1.21.13",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
